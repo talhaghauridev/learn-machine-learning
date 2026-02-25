@@ -1,4 +1,4 @@
-# Learn Machine Learning
+# Machine Learning
 
 A comprehensive collection of Python notebooks and code examples for learning machine learning concepts and techniques.
 
