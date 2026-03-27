@@ -7,7 +7,7 @@ A comprehensive collection of Python notebooks and code examples for learning ma
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/learn-machine-learning.git
+git clone https://github.com/talhaghauridev/learn-machine-learning.git
 cd learn-machine-learning
 ```
 
